@@ -1,0 +1,469 @@
+2022-11-14 22:59:25,857 : INFO : test_e2e : click on Honda check boxs
+2022-11-14 22:59:26,196 : INFO : test_e2e : less than 4 lakh bikes are selected
+2022-11-14 22:59:33,272 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,302 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,340 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,395 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,425 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,457 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,489 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,519 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,563 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,594 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,624 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 22:59:33,654 : INFO : test_e2e : honda bikes all test are print
+2022-11-14 23:00:35,256 : INFO : test_e2e : click on Honda check boxs
+2022-11-14 23:00:35,652 : INFO : test_e2e : less than 4 lakh bikes are selected
+2022-11-14 23:02:43,174 : INFO : test_e2e : click on Honda check boxes
+2022-11-14 23:02:43,367 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-14 23:03:06,214 : INFO : test_e2e : click on Honda check boxes
+2022-11-14 23:03:06,393 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-14 23:12:25,599 : INFO : test_e2e : click on Honda check boxes
+2022-11-14 23:12:25,796 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-14 23:17:29,202 : INFO : Utilities.BaseClass : click on Honda check boxes
+2022-11-14 23:17:29,202 : INFO : Utilities.BaseClass : click on Honda check boxes
+2022-11-14 23:17:29,495 : INFO : Utilities.BaseClass : less than 4 lakh bikes filter apply
+2022-11-14 23:17:29,495 : INFO : Utilities.BaseClass : less than 4 lakh bikes filter apply
+2022-11-15 08:07:57,467 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:07:57,670 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:09:38,723 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:09:39,164 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:14:09,997 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:14:10,418 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:16:15,224 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:16:15,449 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:16:22,901 : INFO : test_e2e : 75400
+2022-11-15 08:16:22,965 : INFO : test_e2e : 86486
+2022-11-15 08:16:23,027 : INFO : test_e2e : 83914
+2022-11-15 08:16:23,100 : INFO : test_e2e : 1.03
+2022-11-15 08:16:23,165 : INFO : test_e2e : 74353
+2022-11-15 08:16:23,245 : INFO : test_e2e : 2.07
+2022-11-15 08:16:23,374 : INFO : test_e2e : 1.35
+2022-11-15 08:16:23,448 : INFO : test_e2e : 83198
+2022-11-15 08:16:23,519 : INFO : test_e2e : 79002
+2022-11-15 08:16:23,601 : INFO : test_e2e : 1.20
+2022-11-15 08:16:23,666 : INFO : test_e2e : 70315
+2022-11-15 08:16:23,729 : INFO : test_e2e : 88536
+2022-11-15 08:17:10,880 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:17:11,147 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:42:37,078 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:42:37,266 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:42:45,168 : INFO : test_e2e : 75400
+2022-11-15 08:42:45,233 : INFO : test_e2e : 86486
+2022-11-15 08:42:45,299 : INFO : test_e2e : 83914
+2022-11-15 08:42:45,380 : INFO : test_e2e : 1.03
+2022-11-15 08:42:45,494 : INFO : test_e2e : 74353
+2022-11-15 08:42:45,576 : INFO : test_e2e : 2.07
+2022-11-15 08:42:45,651 : INFO : test_e2e : 1.35
+2022-11-15 08:42:45,716 : INFO : test_e2e : 83198
+2022-11-15 08:42:45,785 : INFO : test_e2e : 79002
+2022-11-15 08:42:45,862 : INFO : test_e2e : 1.20
+2022-11-15 08:42:45,928 : INFO : test_e2e : 70315
+2022-11-15 08:42:45,998 : INFO : test_e2e : 88536
+2022-11-15 08:45:29,174 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:45:29,356 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:46:13,064 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:46:13,512 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 08:46:21,260 : INFO : test_e2e : 75400
+2022-11-15 08:46:21,358 : INFO : test_e2e : 86486
+2022-11-15 08:46:21,437 : INFO : test_e2e : 83914
+2022-11-15 08:46:21,539 : INFO : test_e2e : 1.03
+2022-11-15 08:46:21,610 : INFO : test_e2e : 74353
+2022-11-15 08:46:21,688 : INFO : test_e2e : 2.07
+2022-11-15 08:46:21,768 : INFO : test_e2e : 1.35
+2022-11-15 08:46:21,833 : INFO : test_e2e : 83198
+2022-11-15 08:46:21,902 : INFO : test_e2e : 79002
+2022-11-15 08:46:21,978 : INFO : test_e2e : 1.20
+2022-11-15 08:46:22,052 : INFO : test_e2e : 70315
+2022-11-15 08:46:22,116 : INFO : test_e2e : 88536
+2022-11-15 08:47:33,580 : INFO : test_e2e : click on Honda check box
+2022-11-15 08:47:33,800 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 10:00:09,800 : INFO : test_e2e : click on Honda check box
+2022-11-15 10:00:10,007 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 10:00:17,235 : INFO : test_e2e : True
+2022-11-15 10:00:17,726 : INFO : test_e2e : 75400
+2022-11-15 10:00:17,808 : INFO : test_e2e : 86486
+2022-11-15 10:00:17,884 : INFO : test_e2e : 83914
+2022-11-15 10:00:17,960 : INFO : test_e2e : 1.03
+2022-11-15 10:00:18,025 : INFO : test_e2e : 74353
+2022-11-15 10:00:18,101 : INFO : test_e2e : 2.07
+2022-11-15 10:00:18,180 : INFO : test_e2e : 1.35
+2022-11-15 10:00:18,244 : INFO : test_e2e : 83198
+2022-11-15 10:00:18,306 : INFO : test_e2e : 79002
+2022-11-15 10:00:18,388 : INFO : test_e2e : 1.20
+2022-11-15 10:00:18,448 : INFO : test_e2e : 70315
+2022-11-15 10:00:18,513 : INFO : test_e2e : 88536
+2022-11-15 12:38:19,182 : INFO : test_e2e : click on Honda check box
+2022-11-15 12:38:19,406 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 12:38:26,609 : INFO : test_e2e : True
+2022-11-15 12:38:27,098 : INFO : test_e2e : 75400
+2022-11-15 12:38:27,170 : INFO : test_e2e : 86486
+2022-11-15 12:38:27,237 : INFO : test_e2e : 83914
+2022-11-15 12:38:27,314 : INFO : test_e2e : 1.03
+2022-11-15 12:38:27,380 : INFO : test_e2e : 74353
+2022-11-15 12:38:27,453 : INFO : test_e2e : 2.07
+2022-11-15 12:38:27,531 : INFO : test_e2e : 1.35
+2022-11-15 12:38:27,595 : INFO : test_e2e : 83198
+2022-11-15 12:38:27,658 : INFO : test_e2e : 79002
+2022-11-15 12:38:27,734 : INFO : test_e2e : 1.20
+2022-11-15 12:38:27,798 : INFO : test_e2e : 70315
+2022-11-15 12:38:27,866 : INFO : test_e2e : 88536
+2022-11-15 13:04:42,809 : INFO : test_e2e : click on Honda check box
+2022-11-15 13:04:43,242 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 13:10:18,107 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:01:04,568 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:03:48,894 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:11:59,708 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:15:01,621 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:16:14,525 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:16:16,818 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:16:16,818 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:16:16,818 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:16:16,818 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:16:58,515 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:00,768 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:00,768 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:00,768 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:00,768 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:50,535 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:53,011 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:53,011 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:53,011 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:17:53,011 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:25:51,472 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:27:11,965 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:28:31,560 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:31:23,524 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:31:57,319 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:31:57,690 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 16:32:05,519 : INFO : test_e2e : 75400
+2022-11-15 16:32:05,580 : INFO : test_e2e : 86486
+2022-11-15 16:32:05,640 : INFO : test_e2e : 83914
+2022-11-15 16:32:05,711 : INFO : test_e2e : 1.03
+2022-11-15 16:32:05,772 : INFO : test_e2e : 74353
+2022-11-15 16:32:05,846 : INFO : test_e2e : 2.07
+2022-11-15 16:32:05,917 : INFO : test_e2e : 1.35
+2022-11-15 16:32:05,977 : INFO : test_e2e : 83198
+2022-11-15 16:32:06,038 : INFO : test_e2e : 79002
+2022-11-15 16:32:06,111 : INFO : test_e2e : 1.20
+2022-11-15 16:32:06,171 : INFO : test_e2e : 70315
+2022-11-15 16:32:06,235 : INFO : test_e2e : 88536
+2022-11-15 16:40:17,283 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:40:17,643 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 16:40:25,355 : INFO : test_e2e : 75400
+2022-11-15 16:40:25,415 : INFO : test_e2e : 86486
+2022-11-15 16:40:25,475 : INFO : test_e2e : 83914
+2022-11-15 16:40:25,556 : INFO : test_e2e : 1.03
+2022-11-15 16:40:25,616 : INFO : test_e2e : 74353
+2022-11-15 16:40:25,688 : INFO : test_e2e : 2.07
+2022-11-15 16:40:25,769 : INFO : test_e2e : 1.35
+2022-11-15 16:40:25,834 : INFO : test_e2e : 83198
+2022-11-15 16:40:25,898 : INFO : test_e2e : 79002
+2022-11-15 16:40:25,970 : INFO : test_e2e : 1.20
+2022-11-15 16:40:26,031 : INFO : test_e2e : 70315
+2022-11-15 16:40:26,091 : INFO : test_e2e : 88536
+2022-11-15 16:55:06,134 : INFO : test_e2e : click on Honda check box
+2022-11-15 16:55:51,396 : INFO : test_e2e : click on Honda check box
+2022-11-15 17:00:53,012 : INFO : test_e2e : click on Honda check box
+2022-11-15 17:01:55,282 : INFO : test_e2e : click on Honda check box
+2022-11-15 17:13:36,504 : INFO : test_e2e : click on Honda check box
+2022-11-15 17:20:39,915 : INFO : test_e2e : click on Honda check box
+2022-11-15 17:20:40,069 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 17:22:00,921 : INFO : test_e2e : click on Honda check box
+2022-11-15 17:22:01,097 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 17:22:08,695 : INFO : test_e2e : 75400
+2022-11-15 17:22:08,754 : INFO : test_e2e : 86486
+2022-11-15 17:22:08,810 : INFO : test_e2e : 83914
+2022-11-15 17:22:08,873 : INFO : test_e2e : 1.03
+2022-11-15 17:22:08,926 : INFO : test_e2e : 74353
+2022-11-15 17:22:09,005 : INFO : test_e2e : 2.07
+2022-11-15 17:22:09,097 : INFO : test_e2e : 1.35
+2022-11-15 17:22:09,147 : INFO : test_e2e : 83198
+2022-11-15 17:22:09,199 : INFO : test_e2e : 79002
+2022-11-15 17:22:09,253 : INFO : test_e2e : 1.20
+2022-11-15 17:22:09,301 : INFO : test_e2e : 70315
+2022-11-15 17:22:09,353 : INFO : test_e2e : 88536
+2022-11-15 19:47:38,689 : INFO : test_e2e : click on Honda check box
+2022-11-15 19:47:38,830 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-15 19:47:46,380 : INFO : test_e2e : 75400
+2022-11-15 19:47:46,425 : INFO : test_e2e : 86486
+2022-11-15 19:47:46,471 : INFO : test_e2e : 83914
+2022-11-15 19:47:46,531 : INFO : test_e2e : 1.03
+2022-11-15 19:47:46,580 : INFO : test_e2e : 74353
+2022-11-15 19:47:46,638 : INFO : test_e2e : 2.07
+2022-11-15 19:47:46,698 : INFO : test_e2e : 1.35
+2022-11-15 19:47:46,750 : INFO : test_e2e : 83198
+2022-11-15 19:47:46,803 : INFO : test_e2e : 79002
+2022-11-15 19:47:46,860 : INFO : test_e2e : 1.20
+2022-11-15 19:47:46,916 : INFO : test_e2e : 70315
+2022-11-15 19:47:46,974 : INFO : test_e2e : 8.89
+2022-11-16 09:07:26,793 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:07:27,231 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 09:08:25,396 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:08:25,694 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 09:08:33,780 : INFO : test_e2e : 75400
+2022-11-16 09:08:33,844 : INFO : test_e2e : 86486
+2022-11-16 09:08:33,916 : INFO : test_e2e : 83914
+2022-11-16 09:08:33,988 : INFO : test_e2e : 1.03
+2022-11-16 09:08:34,050 : INFO : test_e2e : 74353
+2022-11-16 09:08:34,122 : INFO : test_e2e : 2.07
+2022-11-16 09:08:34,196 : INFO : test_e2e : 1.35
+2022-11-16 09:08:34,260 : INFO : test_e2e : 83198
+2022-11-16 09:08:34,324 : INFO : test_e2e : 79002
+2022-11-16 09:08:34,399 : INFO : test_e2e : 1.20
+2022-11-16 09:08:34,463 : INFO : test_e2e : 70315
+2022-11-16 09:08:34,528 : INFO : test_e2e : 88536
+2022-11-16 09:11:03,693 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:11:03,952 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 09:11:11,618 : INFO : test_e2e : 75400
+2022-11-16 09:11:11,706 : INFO : test_e2e : 86486
+2022-11-16 09:11:11,798 : INFO : test_e2e : 83914
+2022-11-16 09:11:11,884 : INFO : test_e2e : 1.03
+2022-11-16 09:11:11,942 : INFO : test_e2e : 74353
+2022-11-16 09:11:12,016 : INFO : test_e2e : 2.07
+2022-11-16 09:11:12,093 : INFO : test_e2e : 1.35
+2022-11-16 09:11:12,161 : INFO : test_e2e : 83198
+2022-11-16 09:11:12,227 : INFO : test_e2e : 79002
+2022-11-16 09:11:12,305 : INFO : test_e2e : 1.20
+2022-11-16 09:11:12,379 : INFO : test_e2e : 70315
+2022-11-16 09:11:12,454 : INFO : test_e2e : 8.89
+2022-11-16 09:18:00,172 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:20:13,897 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:20:14,283 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 09:20:22,034 : INFO : test_e2e : Rs. 75400
+2022-11-16 09:20:22,101 : INFO : test_e2e : Rs. 86486
+2022-11-16 09:20:22,177 : INFO : test_e2e : Rs. 83914
+2022-11-16 09:20:22,257 : INFO : test_e2e : 1.03 Lakh
+2022-11-16 09:20:22,329 : INFO : test_e2e : Rs. 74353
+2022-11-16 09:20:22,415 : INFO : test_e2e : 2.07 Lakh
+2022-11-16 09:20:22,498 : INFO : test_e2e : 1.35 Lakh
+2022-11-16 09:20:22,580 : INFO : test_e2e : Rs. 83198
+2022-11-16 09:20:22,651 : INFO : test_e2e : Rs. 79002
+2022-11-16 09:20:22,744 : INFO : test_e2e : 1.20 Lakh
+2022-11-16 09:20:22,811 : INFO : test_e2e : Rs. 70315
+2022-11-16 09:20:22,889 : INFO : test_e2e : Rs. 88536
+2022-11-16 09:23:09,657 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:25:37,122 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:25:37,318 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 09:27:28,565 : INFO : test_e2e : click on Honda check box
+2022-11-16 09:27:28,897 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 09:27:30,624 : INFO : test_e2e : Rs. 75400
+2022-11-16 09:27:30,689 : INFO : test_e2e : Rs. 86486
+2022-11-16 09:27:30,754 : INFO : test_e2e : Rs. 83914
+2022-11-16 09:27:30,832 : INFO : test_e2e : 1.03 Lakh
+2022-11-16 09:27:30,896 : INFO : test_e2e : Rs. 74353
+2022-11-16 09:27:30,984 : INFO : test_e2e : 2.07 Lakh
+2022-11-16 09:27:31,195 : INFO : test_e2e : 1.35 Lakh
+2022-11-16 09:27:31,278 : INFO : test_e2e : Rs. 83198
+2022-11-16 09:27:31,342 : INFO : test_e2e : Rs. 79002
+2022-11-16 09:27:31,412 : INFO : test_e2e : 1.20 Lakh
+2022-11-16 09:27:31,480 : INFO : test_e2e : Rs. 70315
+2022-11-16 09:27:31,543 : INFO : test_e2e : Rs. 88536
+2022-11-16 16:34:35,968 : INFO : test_e2e : click on Honda check box
+2022-11-16 16:35:06,944 : INFO : test_e2e : click on Honda check box
+2022-11-16 16:35:07,209 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 16:36:15,140 : INFO : test_e2e : click on Honda check box
+2022-11-16 16:36:15,610 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-16 16:37:05,435 : INFO : test_e2e : click on Honda check box
+2022-11-16 16:37:05,651 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-19 14:52:15,070 : INFO : test_e2e : click on Honda check box
+2022-11-19 14:52:15,233 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-19 14:52:23,695 : INFO : test_e2e : Rs. 76587
+2022-11-19 14:52:23,770 : INFO : test_e2e : Rs. 87522
+2022-11-19 14:52:23,855 : INFO : test_e2e : Rs. 83914
+2022-11-19 14:52:23,941 : INFO : test_e2e : 1.05 Lakh
+2022-11-19 14:52:24,012 : INFO : test_e2e : Rs. 74353
+2022-11-19 14:52:24,113 : INFO : test_e2e : 2.07 Lakh
+2022-11-19 14:52:24,228 : INFO : test_e2e : 1.36 Lakh
+2022-11-19 14:52:24,305 : INFO : test_e2e : Rs. 84235
+2022-11-19 14:52:24,384 : INFO : test_e2e : Rs. 79002
+2022-11-19 14:52:24,524 : INFO : test_e2e : 1.21 Lakh
+2022-11-19 14:52:24,718 : INFO : test_e2e : Rs. 70315
+2022-11-19 14:52:24,789 : INFO : test_e2e : Rs. 89573
+2022-11-21 10:34:11,324 : INFO : test_e2e : click on Honda check box
+2022-11-21 10:34:11,729 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 10:34:19,249 : INFO : test_e2e : Rs. 76587
+2022-11-21 10:34:19,296 : INFO : test_e2e : Rs. 87522
+2022-11-21 10:34:19,348 : INFO : test_e2e : Rs. 83914
+2022-11-21 10:34:19,409 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 10:34:19,459 : INFO : test_e2e : Rs. 74353
+2022-11-21 10:34:19,521 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 10:34:19,579 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 10:34:19,635 : INFO : test_e2e : Rs. 84235
+2022-11-21 10:34:19,682 : INFO : test_e2e : Rs. 79002
+2022-11-21 10:34:19,739 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 10:34:19,827 : INFO : test_e2e : Rs. 70315
+2022-11-21 10:34:19,878 : INFO : test_e2e : Rs. 89573
+2022-11-21 10:37:09,335 : INFO : test_e2e : click on Honda check box
+2022-11-21 10:37:09,532 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 10:39:06,955 : INFO : test_e2e : click on Honda check box
+2022-11-21 10:39:07,189 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 10:41:48,853 : INFO : test_e2e : click on Honda check box
+2022-11-21 10:41:49,006 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 10:41:56,551 : INFO : test_e2e : Rs. 76587
+2022-11-21 10:41:56,603 : INFO : test_e2e : Rs. 87522
+2022-11-21 10:41:56,652 : INFO : test_e2e : Rs. 83914
+2022-11-21 10:41:56,710 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 10:41:56,758 : INFO : test_e2e : Rs. 74353
+2022-11-21 10:41:56,817 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 10:41:56,875 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 10:41:56,921 : INFO : test_e2e : Rs. 84235
+2022-11-21 10:41:56,972 : INFO : test_e2e : Rs. 79002
+2022-11-21 10:41:57,029 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 10:41:57,077 : INFO : test_e2e : Rs. 70315
+2022-11-21 10:41:57,138 : INFO : test_e2e : 8.89 Lakh
+2022-11-21 11:17:30,683 : INFO : test_e2e : click on Honda check box
+2022-11-21 11:17:30,847 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 11:17:38,458 : INFO : test_e2e : Rs. 76587
+2022-11-21 11:17:38,515 : INFO : test_e2e : Rs. 87522
+2022-11-21 11:17:38,578 : INFO : test_e2e : Rs. 83914
+2022-11-21 11:17:38,635 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 11:17:38,686 : INFO : test_e2e : Rs. 74353
+2022-11-21 11:17:38,745 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 11:17:38,805 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 11:17:38,856 : INFO : test_e2e : Rs. 84235
+2022-11-21 11:17:38,909 : INFO : test_e2e : Rs. 79002
+2022-11-21 11:17:38,974 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 11:17:39,022 : INFO : test_e2e : Rs. 70315
+2022-11-21 11:17:39,072 : INFO : test_e2e : Rs. 89573
+2022-11-21 11:23:16,653 : INFO : test_e2e : click on Honda check box
+2022-11-21 11:23:16,816 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 11:23:24,406 : INFO : test_e2e : Rs. 76587
+2022-11-21 11:23:24,457 : INFO : test_e2e : Rs. 87522
+2022-11-21 11:23:24,512 : INFO : test_e2e : Rs. 83914
+2022-11-21 11:23:24,583 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 11:23:24,634 : INFO : test_e2e : Rs. 74353
+2022-11-21 11:23:24,696 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 11:23:24,761 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 11:23:24,811 : INFO : test_e2e : Rs. 84235
+2022-11-21 11:23:24,863 : INFO : test_e2e : Rs. 79002
+2022-11-21 11:23:24,928 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 11:23:24,986 : INFO : test_e2e : Rs. 70315
+2022-11-21 11:23:25,046 : INFO : test_e2e : 8.89 Lakh
+2022-11-21 11:48:42,783 : INFO : test_e2e : click on Honda check box
+2022-11-21 11:48:42,932 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 11:49:54,311 : INFO : test_e2e : click on Honda check box
+2022-11-21 11:49:54,573 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 11:50:02,088 : INFO : test_e2e : Rs. 76587
+2022-11-21 11:50:02,134 : INFO : test_e2e : Rs. 87522
+2022-11-21 11:50:02,181 : INFO : test_e2e : Rs. 83914
+2022-11-21 11:50:02,235 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 11:50:02,283 : INFO : test_e2e : Rs. 74353
+2022-11-21 11:50:02,342 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 11:50:02,397 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 11:50:02,451 : INFO : test_e2e : Rs. 84235
+2022-11-21 11:50:02,498 : INFO : test_e2e : Rs. 79002
+2022-11-21 11:50:02,552 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 11:50:02,598 : INFO : test_e2e : Rs. 70315
+2022-11-21 11:50:02,647 : INFO : test_e2e : Rs. 89573
+2022-11-21 12:30:36,936 : INFO : test_e2e : click on Honda check box
+2022-11-21 12:53:34,943 : INFO : test_e2e : click on Honda check box
+2022-11-21 12:53:35,077 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 13:11:21,000 : INFO : test_e2e : click on Honda check box
+2022-11-21 13:11:21,251 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 13:13:59,871 : INFO : test_e2e : click on Honda check box
+2022-11-21 13:14:00,065 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 13:17:52,501 : INFO : test_e2e : click on Honda check box
+2022-11-21 13:17:52,502 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 14:31:18,430 : INFO : test_e2e : click on Honda check box
+2022-11-21 14:31:18,612 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 14:31:26,215 : INFO : test_e2e : Rs. 76587
+2022-11-21 14:31:26,266 : INFO : test_e2e : Rs. 87522
+2022-11-21 14:31:26,316 : INFO : test_e2e : Rs. 83914
+2022-11-21 14:31:26,376 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 14:31:26,426 : INFO : test_e2e : Rs. 74353
+2022-11-21 14:31:26,489 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 14:31:26,550 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 14:31:26,609 : INFO : test_e2e : Rs. 84235
+2022-11-21 14:31:26,668 : INFO : test_e2e : Rs. 79002
+2022-11-21 14:31:26,735 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 14:31:26,792 : INFO : test_e2e : Rs. 70315
+2022-11-21 14:31:26,847 : INFO : test_e2e : Rs. 89573
+2022-11-21 18:03:22,121 : INFO : test_e2e : click on Honda check box
+2022-11-21 18:03:22,334 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 18:03:29,874 : INFO : test_e2e : Rs. 76587
+2022-11-21 18:03:29,943 : INFO : test_e2e : Rs. 87522
+2022-11-21 18:03:30,009 : INFO : test_e2e : Rs. 83914
+2022-11-21 18:03:30,092 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 18:03:30,215 : INFO : test_e2e : Rs. 74353
+2022-11-21 18:03:30,365 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 18:03:30,453 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 18:03:30,534 : INFO : test_e2e : Rs. 84235
+2022-11-21 18:03:30,624 : INFO : test_e2e : Rs. 79002
+2022-11-21 18:03:30,733 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 18:03:30,821 : INFO : test_e2e : Rs. 70315
+2022-11-21 18:03:30,892 : INFO : test_e2e : Rs. 89573
+2022-11-21 18:41:38,414 : INFO : test_e2e : click on Honda check box
+2022-11-21 18:41:38,659 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 18:41:46,190 : INFO : test_e2e : Rs. 76587
+2022-11-21 18:41:46,260 : INFO : test_e2e : Rs. 87522
+2022-11-21 18:41:46,345 : INFO : test_e2e : Rs. 83914
+2022-11-21 18:41:46,429 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 18:41:46,502 : INFO : test_e2e : Rs. 74353
+2022-11-21 18:41:46,593 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 18:41:46,670 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 18:41:46,755 : INFO : test_e2e : Rs. 84235
+2022-11-21 18:41:46,828 : INFO : test_e2e : Rs. 79002
+2022-11-21 18:41:46,908 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 18:41:46,984 : INFO : test_e2e : Rs. 70315
+2022-11-21 18:41:47,060 : INFO : test_e2e : Rs. 89573
+2022-11-21 18:42:21,287 : INFO : test_e2e : click on Honda check box
+2022-11-21 18:42:21,487 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 18:42:29,071 : INFO : test_e2e : Rs. 76587
+2022-11-21 18:42:29,134 : INFO : test_e2e : Rs. 87522
+2022-11-21 18:42:29,207 : INFO : test_e2e : Rs. 83914
+2022-11-21 18:42:29,288 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 18:42:29,353 : INFO : test_e2e : Rs. 74353
+2022-11-21 18:42:29,429 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 18:42:29,518 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 18:42:29,586 : INFO : test_e2e : Rs. 84235
+2022-11-21 18:42:29,655 : INFO : test_e2e : Rs. 79002
+2022-11-21 18:42:29,737 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 18:42:29,801 : INFO : test_e2e : Rs. 70315
+2022-11-21 18:42:29,880 : INFO : test_e2e : 8.89 Lakh
+2022-11-21 18:44:05,291 : INFO : test_e2e : click on Honda check box
+2022-11-21 18:44:05,505 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-21 18:44:13,082 : INFO : test_e2e : Rs. 76587
+2022-11-21 18:44:13,150 : INFO : test_e2e : Rs. 87522
+2022-11-21 18:44:13,223 : INFO : test_e2e : Rs. 83914
+2022-11-21 18:44:13,307 : INFO : test_e2e : 1.05 Lakh
+2022-11-21 18:44:13,389 : INFO : test_e2e : Rs. 74353
+2022-11-21 18:44:13,478 : INFO : test_e2e : 2.07 Lakh
+2022-11-21 18:44:13,569 : INFO : test_e2e : 1.36 Lakh
+2022-11-21 18:44:13,640 : INFO : test_e2e : Rs. 84235
+2022-11-21 18:44:13,709 : INFO : test_e2e : Rs. 79002
+2022-11-21 18:44:13,798 : INFO : test_e2e : 1.21 Lakh
+2022-11-21 18:44:13,872 : INFO : test_e2e : Rs. 70315
+2022-11-21 18:44:13,953 : INFO : test_e2e : 8.89 Lakh
+2022-11-24 14:17:13,320 : INFO : test_e2e : click on Honda check box
+2022-11-24 14:17:13,824 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-24 14:17:21,364 : INFO : test_e2e : Rs. 77706
+2022-11-24 14:17:21,433 : INFO : test_e2e : Rs. 88124
+2022-11-24 14:17:21,507 : INFO : test_e2e : Rs. 84567
+2022-11-24 14:17:21,591 : INFO : test_e2e : 1.06 Lakh
+2022-11-24 14:17:21,674 : INFO : test_e2e : Rs. 78038
+2022-11-24 14:17:21,766 : INFO : test_e2e : 2.07 Lakh
+2022-11-24 14:17:21,840 : INFO : test_e2e : 1.37 Lakh
+2022-11-24 14:17:21,907 : INFO : test_e2e : Rs. 86174
+2022-11-24 14:17:21,983 : INFO : test_e2e : Rs. 79734
+2022-11-24 14:17:22,075 : INFO : test_e2e : 1.22 Lakh
+2022-11-24 14:17:22,141 : INFO : test_e2e : Rs. 71427
+2022-11-24 14:17:22,217 : INFO : test_e2e : Rs. 90396
+2022-11-24 14:17:33,495 : INFO : test_e2e2 : click on Honda check box
+2022-11-24 14:17:33,815 : INFO : test_e2e2 : less than 4 lakh bikes filter apply
+2022-11-24 14:24:12,811 : INFO : test_e2e : click on Honda check box
+2022-11-24 14:24:13,099 : INFO : test_e2e : less than 4 lakh bikes filter apply
+2022-11-24 14:24:20,701 : INFO : test_e2e : Rs. 77706
+2022-11-24 14:24:20,789 : INFO : test_e2e : Rs. 88124
+2022-11-24 14:24:20,861 : INFO : test_e2e : Rs. 84567
+2022-11-24 14:24:20,950 : INFO : test_e2e : 1.06 Lakh
+2022-11-24 14:24:21,030 : INFO : test_e2e : Rs. 78038
+2022-11-24 14:24:21,126 : INFO : test_e2e : 2.07 Lakh
+2022-11-24 14:24:21,214 : INFO : test_e2e : 1.37 Lakh
+2022-11-24 14:24:21,294 : INFO : test_e2e : Rs. 86174
+2022-11-24 14:24:21,376 : INFO : test_e2e : Rs. 79734
+2022-11-24 14:24:21,459 : INFO : test_e2e : 1.22 Lakh
+2022-11-24 14:24:21,533 : INFO : test_e2e : Rs. 71427
+2022-11-24 14:24:21,621 : INFO : test_e2e : Rs. 90396
+2022-11-24 14:24:39,916 : INFO : test_e2e2 : click on Honda check box
+2022-11-24 14:24:40,174 : INFO : test_e2e2 : less than 4 lakh bikes filter apply
